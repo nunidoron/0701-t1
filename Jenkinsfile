@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('Heldsfsflo') {
             steps {
                 sh 'python main.py'
             }
